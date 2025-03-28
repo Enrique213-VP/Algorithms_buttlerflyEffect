@@ -1,4 +1,4 @@
-package com.example.algorithms
+package com.example.algorithms.Easy
 
 import kotlin.collections.ArrayList
 
